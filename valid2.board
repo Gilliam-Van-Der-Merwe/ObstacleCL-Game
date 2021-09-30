@@ -1,0 +1,10 @@
+%Valid board
+r.bqkbnr
+pppppppp
+..n.....
+.._......
+....|....
+......._.
+PPPPPPPP
+RNBQKBNR
+w 2 1 ++++ - 1
